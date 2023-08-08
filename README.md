@@ -25,3 +25,6 @@ server {
     }
 }
 
+ENCHRRAR PORTAS: sudo lsof -i :3000
+
+
